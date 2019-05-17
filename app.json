@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Agenda Kids",
+    "slug": "agenda_kids",
+    "privacy": "public",
+    "sdkVersion": "32.0.0",
+    "platforms": ["ios", "android"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "splash": {
+      "image": "./assets/splash_small.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#16a085"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
