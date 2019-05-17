@@ -33,7 +33,7 @@ const AppSwitchNavigator = createSwitchNavigator(
     Events: EventScreen
   },
   {
-    initialRouteName: "Events"
+    initialRouteName: "Splash"
   }
 );
 
